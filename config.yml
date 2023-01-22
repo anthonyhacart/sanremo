@@ -2,6 +2,7 @@ baseURL: "https://anthonyhacart.github.io/sanremo"
 title: SanRemo eSport news
 paginate: 4
 theme: PaperMod
+HUGO_VERSION: 0.99.1
 
 enableRobotsTXT: true
 buildDrafts: false
